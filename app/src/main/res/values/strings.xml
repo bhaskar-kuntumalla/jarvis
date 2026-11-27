@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_label">Jarvis</string>
+    <string name="accessibility_service_description">Lets Jarvis read the screen and tap or type when you ask it to. Milestone 1 does not send screen content off the device.</string>
+</resources>
